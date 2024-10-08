@@ -241,7 +241,7 @@ public:
             cout<<"\n\t====================================================== \t\t\t "<<endl;
             cout<<"\t==========  Insert the information of student  =========\t\t\t "<<endl;
             cout<<"\t========================================================\t\t\t "<<endl<<endl;
-            cout<< "Enter the name of student : ";
+            cout<< "Enter the name of the student : ";
             cin >> name;
             cout << endl<< "Enter the section : ";
             cin >> sec;
